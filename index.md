@@ -1,6 +1,4 @@
-## Selected Academic Projects in Business Analytics
-
----
+## Selected Business Analytics Projects
 
 ### 🔋 Monte Carlo Profit Simulation | Enterprise Risk Analytics
 Conducted Monte Carlo simulations to estimate profit outcomes for an electric motorboat startup. Visualized results with ribbon plots showing mean profit and 80%/99% prediction intervals, and density plots illustrating profit distributions across production levels.
@@ -13,13 +11,13 @@ Conducted Monte Carlo simulations to estimate profit outcomes for an electric mo
 ---
 
 ### 💼 Job Postings Analytics Using Spark | Web Analytics
-The global job market is undergoing a significant transformation due to various factors, including the rapid adoption of artificial intelligence (AI), evolving work models such as remote work, and shifts in industry-specific wage structures. In this project, I analyzed global job market trends using PySpark, focusing on salary patterns across AI and non-AI careers. I explored the impact of remote work, regional variation, and industry-specific factors on compensation to support informed career and workforce planning decisions.
+The global job market is undergoing a profound transformation, driven by factors such as the rapid adoption of artificial intelligence (AI), evolving work models like remote work, and shifting wage structures across industries. In this project, I analyzed global job market trends using PySpark, focusing on salary patterns across careers. The study explored the impact of remote work, regional differences, and industry-specific dynamics on compensation, providing actionable insights to support informed career planning and workforce strategy development.
 
 - Language: Python, SQL
 - Tools: Spark, Plotly, Pandas
 
-<img src="images/salarydist.png?raw=true" />
 <img src="images/SalarybyOccupation.jpg?raw=true" />
+<img src="images/salarydist.png?raw=true" />
 <img src="images/salarycomparison.png?raw=true" />
 
 ---
@@ -52,19 +50,19 @@ Model performance was evaluated using metrics like RMSE and R², alongside diagn
 
 ## Other Projects
 A selection of smaller projects demonstrating specific skills.
-- [Exploring the Park: Visulizing Visitor Trends and Event Impacts Using Tableau](https://public.tableau.com/app/profile/furong.wang/viz/Dashboard_17439969338420/Dashboard1)
+- [Exploring the Park: Visualizing Visitor Trends and Event Impacts Using Tableau Dashboard](https://public.tableau.com/app/profile/furong.wang/viz/Dashboard_17439969338420/Dashboard1)
 - [Optimising code with multiprocessing](#)
 
 ---
 
 ## Curriculum Vitae
-[Download CV (PDF)](pdf/CV.pdf)
+[Download my CV (PDF)](pdf/CV.pdf)
 
 ---
 
 ## Let's Connect
-📧 **Email:** [frwang@bu.edu]  
-🐙 **GitHub:** [github.com/frwang0919](https://github.com/frwang0919)
+📧 **Email:** [frwang@bu.edu](frwang@bu.edu)
+🐙 **Telephone:** [github.com/frwang0919](https://github.com/frwang0919)
 
 
 
