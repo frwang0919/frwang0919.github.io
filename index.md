@@ -3,7 +3,6 @@
 ---
 
 ### 🔋 Monte Carlo Profit Simulation | Enterprise Risk Analytics
-
 Conducted Monte Carlo simulations to estimate profit outcomes for an electric motorboat startup. Visualized results with ribbon plots showing mean profit and 80%/99% prediction intervals, and density plots illustrating profit distributions across production levels.
 
 - Language: R
@@ -19,13 +18,13 @@ The global job market is undergoing a significant transformation due to various 
 - Language: Python, SQL
 - Tools: Spark, Plotly, Pandas
 
-<img src="images/salarycomparison.png.jpg?raw=true" />
 <img src="images/salarydist.png?raw=true" />
 <img src="images/SalarybyOccupation.jpg?raw=true" />
+<img src="images/salarycomparison.png?raw=true" />
 
 ---
 
-### 📊 Lobsterland Consumer Insights | Marketing Analytics
+### 🦞 Lobsterland Consumer Insights | Marketing Analytics
 Conducted in-depth marketing analytics for Lobsterland Park to uncover trends in customer behavior and sales performance. For example, I analyzed total sales volume fluctuations over time across different purchase channels to identify seasonal patterns and channel effectiveness. Additionally, I created a heatmap to visualize sales by product category and day of the week, revealing key insights into consumer preferences and peak purchasing times. These findings supported data-driven decisions in campaign targeting, inventory management, and operational planning.
 
 - Language: Python
@@ -35,7 +34,7 @@ Conducted in-depth marketing analytics for Lobsterland Park to uncover trends in
 
 ---
 
-### 🦞 Classification Modeling on Passholder Data: ML with Grid Search Tuning, KNN Imputation, and Preprocessing Pipelines
+### 🧠 Classification Modeling on Passholder Data: ML with Grid Search Tuning, KNN Imputation, and Preprocessing Pipelines
 The Lobsterland Passholder Project involved predicting 2025 season renewal behavior for park passholders based on demographic, behavioral, and categorical data.
 
 I worked on this classification task using a range of ML techniques, including: (i) imputing missing values using KNN, (ii) modeling with Decision Trees and Random Forests, (iii) tuning hyperparameters with GridSearchCV, and (iv) analyzing feature importances to interpret the drivers of renewal behavior. 
@@ -51,9 +50,22 @@ Model performance was evaluated using metrics like RMSE and R², alongside diagn
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
-
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
+## Other Projects
+A selection of smaller projects demonstrating specific skills.
+- [Exploring the Park: Visulizing Visitor Trends and Event Impacts Using Tableau](https://public.tableau.com/app/profile/furong.wang/viz/Dashboard_17439969338420/Dashboard1)
 - [Optimising code with multiprocessing](#)
+
+---
+
+## Curriculum Vitae
+[Download CV (PDF)](pdf/CV.pdf)
+
+---
+
+## Let's Connect
+📧 **Email:** [frwang@bu.edu]  
+🐙 **GitHub:** [github.com/frwang0919](https://github.com/frwang0919)
+
+
+
 
