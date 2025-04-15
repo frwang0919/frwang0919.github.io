@@ -51,7 +51,7 @@ Model performance was evaluated using metrics like RMSE and R², alongside diagn
 ## Other Projects
 A selection of smaller projects demonstrating specific skills.
 - [Exploring the Park: Visualizing Visitor Trends and Event Impacts Using Tableau Dashboard](https://public.tableau.com/app/profile/furong.wang/viz/Dashboard_17439969338420/Dashboard1)
-- [Optimising code with multiprocessing](#)
+- [Business Running Case: Investing in a New In-House Microbrewery](https://www.canva.com/design/DAGZgZMJWoQ/3AhfBwkVdfF5KeOKCz768A/edit?utm_content=DAGZgZMJWoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -61,7 +61,7 @@ A selection of smaller projects demonstrating specific skills.
 ---
 
 ## Let's Connect
-📧 **Email:** frwang@bu.edu
+📧 **Email:** frwang@bu.edu <br>
 🐙 **Telephone:** [github.com/frwang0919](https://github.com/frwang0919)
 
 
