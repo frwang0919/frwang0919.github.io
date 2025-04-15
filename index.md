@@ -61,7 +61,7 @@ A selection of smaller projects demonstrating specific skills.
 ---
 
 ## Let's Connect
-📧 **Email:** [frwang@bu.edu](frwang@bu.edu)
+📧 **Email:** frwang@bu.edu
 🐙 **Telephone:** [github.com/frwang0919](https://github.com/frwang0919)
 
 
