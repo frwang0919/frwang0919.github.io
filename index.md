@@ -56,13 +56,13 @@ A selection of smaller projects demonstrating specific skills.
 ---
 
 ## Curriculum Vitae
-[Download my CV (PDF)](pdf/CV.pdf)
+[Download My CV (PDF)](pdf/CV.pdf)
 
 ---
 
 ## Let's Connect
-📧 **Email:** frwang@bu.edu <br>
-🐙 **Telephone:** [github.com/frwang0919](https://github.com/frwang0919)
+📧 **Email:** [frwang@bu.edu](mailto:frwang@bu.edu) <br>
+🐙 **GitHub:** [github.com/frwang0919](https://github.com/frwang0919)
 
 
 
